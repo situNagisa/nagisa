@@ -7,7 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "standard_header", "submodul
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "version", "submodules\version\version.vcxproj", "{384E7816-CFC4-4CE0-B070-51D060F6923C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lib", "submodules\lib\lib.vcxproj", "{F51388F3-A0FE-4101-AFDE-DD840C8FCE33}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "build_lib", "submodules\build_lib\lib.vcxproj", "{F51388F3-A0FE-4101-AFDE-DD840C8FCE33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
