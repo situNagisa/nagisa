@@ -4,3 +4,12 @@
 [submodule "libs/standard_header"]
 	path = libs/standard_header
 	url = git@github.com:situNagisa/standard_header.git
+[submodule "libs/concept"]
+	path = libs/concept
+	url = git@github.com:situNagisa/concept.git
+[submodule "libs/type_trait"]
+	path = libs/type_trait
+	url = git@github.com:situNagisa/type_trait.git
+[submodule "libs/build_lib"]
+	path = libs/build_lib
+	url = git@github.com:situNagisa/build_lib.git
