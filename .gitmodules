@@ -1,3 +1,6 @@
 [submodule "visual_studio_config"]
 	path = visual_studio_config
 	url = https://github.com/situNagisa/visual_studio.git
+[submodule "libs/standard_header"]
+	path = libs/standard_header
+	url = git@github.com:situNagisa/standard_header.git
