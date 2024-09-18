@@ -7,3 +7,5 @@ bin/
 
 submodules/
 include/
+
+tools/create_link/.*
